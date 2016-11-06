@@ -1,0 +1,17 @@
+/node_modules/*
+/components/*
+!/components/.keep
+/pages/*
+!/pages/.keep
+!/pages/*.meta.json
+/objects/*
+!/objects/.keep
+!/objects/*.meta.json
+/.webdesigniorc.json
+/webdesignio.log
+/static/client.js
+/src/components/index.js
+/data/*
+!/data/.keep
+/mongod.log
+/assets.zip
